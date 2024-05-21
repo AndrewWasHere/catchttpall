@@ -1,4 +1,4 @@
-# Catchall
+# Catchttpall
 
 Catchall HTTP server. Logs HTTP requests to all endpoints.
 
